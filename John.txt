@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<<device-width>>, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+       
+       table, th, td {
+            border: 2px solid white;
+            border-collapse: collapse;
+            padding: 20px;
+        }
+        th, td, tr {
+            font-size: large;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            background-color: #96D4D4;
+            padding: 16px;
+        }        
+    </style>
+</head>
+<body>
+  <div>
+   <table>
+        <tr>
+            <td>Cease Reference</td>
+            <td>Cease Reference</td>
+        </tr>
+        <tr>
+            <td>Customer Name
+                <table>
+                    <tr>
+                      <td>Billing Account Number</td>
+                    </tr>
+                  </table>
+            </td>
+            <td>Cease Reference
+                <table>
+                    <tr>
+                      <td>Cease Reference</td>
+                    </tr>
+                  </table>
+            </td>
+        </tr>
+        <tr>
+            <td>Circuit Reference
+                <table>
+                    <tr>
+                      <td>Cease Order Reference</td>
+                    </tr>
+                    <tr>
+                      <td>Confirmed Case Date</td>
+                      </tr>
+                      <tr>
+                      <td>Customer Reference</td>
+                    </tr>
+                  </table>
+            </td>
+            <td>Cease Reference
+                <table>
+                    <tr>
+                      <td>Cease Reference</td>
+                     </tr>
+                     <tr>
+                      <td>Cease Reference</td>
+                    </tr> 
+                      <tr>
+                      <td>Cease Reference</td>
+                    </tr>
+                  </table>
+            </td>
+        </tr>
+        </div>
+   </table>
+</div>
+</body>
+</html>
